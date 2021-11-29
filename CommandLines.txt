@@ -1,0 +1,2 @@
+# Cria pendrive bootavel do windows via zsh do mac
+sudo dd if=/Users/marcelolynx/Downloads/Win10_21H2_Portuguese_x32.iso of=/dev/disk2 bs=1m
